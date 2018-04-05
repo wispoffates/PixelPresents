@@ -1,0 +1,6 @@
+name: PixelPresents
+version: 1.0.1
+main: io.chazza.pixelpresents.PixelPresents
+author: Chazmondo
+description: "Configure Findable Gifts for Rewards!"
+softdepend: [PlaceholderAPI]

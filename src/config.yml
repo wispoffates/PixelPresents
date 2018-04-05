@@ -1,0 +1,49 @@
+#############################################################
+#                        PixelPresents                      #
+#############################################################
+
+
+#############################################################
+#                       Auto Generated                      #
+#############################################################
+#                                                           #
+#                     Use /presents set,                    #
+#                    to add as a present!                   #
+#                                                           #
+#############################################################
+present: []
+
+
+#############################################################
+#                          Messages                         #
+#############################################################
+reloaded: "&aConfiguration has been reloaded."
+#
+create: "&aBreak the block you wish to setup as a present."
+#
+setup: "&aPresent has been created."
+#
+removed: "&cPresent has been removed."
+#
+already-found: "&cYou've already found this present!"
+#
+tp: "&aTeleported to Present #%id%."
+#
+shift-broken: "&cPresent has been deleted."
+#
+permission: "&cYou don't have permission to do that."
+
+help:
+- ''
+- '&aPresents &8- &cv%version%'
+- ''
+- '&7&nCommands'
+- ' &a/presents set'
+- ' &a/presents reload'
+- ' &a/presents list'
+- ' &a/presents tp <id>'
+- ''
+
+complete-reward:
+- "[Title] &aQuest Complete;&7All Presents Found!"
+- "[Actionbar] &aCongrats! All presents found;10"
