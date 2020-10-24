@@ -115,10 +115,10 @@ public class ActionManager {
             return; // Player may have logged out
         }
 
-        if (nmsVer.startsWith("v1_12_")) {
-            sendActionBarPost112(player, message);
-        } else {
+        if (nmsVer.startsWith("v1_11_") || nmsVer.startsWith("v1_10_") || nmsVer.startsWith("v1_9_") || nmsVer.startsWith("v1_8_")) {
             sendActionBarPre112(player, message);
+        } else {
+            sendActionBarPost112(player, message);
         }
     }
 

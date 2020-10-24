@@ -1,0 +1,17 @@
+#.gitignore
+.classpath
+.idea/*
+.vscode/
+.project
+.settings/*
+target/*
+*.iml
+.factorypath
+
+*.DS_STORE
+
+dependency-reduced-pom.xml
+
+license.rtf
+
+/target/

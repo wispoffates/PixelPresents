@@ -4,3 +4,4 @@ main: io.chazza.pixelpresents.PixelPresents
 author: Chazmondo
 description: "Configure Findable Gifts for Rewards!"
 softdepend: [PlaceholderAPI]
+api-version: 1.13
